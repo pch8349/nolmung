@@ -1,8 +1,8 @@
 <div align="center">
-  <br />
-![image](/uploads/7c4b59aaede721dff708efe7a5740c4d/image.png)
-  <br />
   <h1>놀면 멍하개!</h1>
+  <br />
+  
+![프로필 이미지](/readme.asset/profile.png)
   <br />
 </div>
 
@@ -31,7 +31,6 @@
 >
 #### 산책일지 기록과 친구들과 산책 기록 랭킹 서비스까지!
 <br/>
-
 
 
 ## 🛠️ 기술 스택
@@ -109,12 +108,12 @@
 
 |                              시스템 구성                           |
 | :------------------------------------------------------------------------------: |
-| !![A502_시스템구성도](/uploads/7e20bbf4b0bb338bd22e470fe551e2ee/A502_시스템구성도.PNG) |
+| ![시스템구성](/readme.asset/architecture.PNG)  |
 
 
 |                              디렉토리 구조                       |
 | :------------------------------------------------------------------------------: |
-| 프론트엔드![image](/uploads/650a5d7af68ca7d56f282d1a7fe606a4/image.png) 백엔드![image](/uploads/bcefdbf0dc2af84dc20f16f651de2e5e/image.png) |
+| ![디렉토리구조](/readme.asset/directory.png) |
 
 <br />
 
@@ -130,12 +129,8 @@
 
 |                        회원 가입 화면                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="회원 가입" />  |
+|<img src="/readme.asset/gaib0.PNG" alt="회원 가입" />|
 
-
-|                        친구 추천 시스템                    |
-| :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="친구 추천" />  |
 
 ### 산책 서비스
 - 산책한 정보를 지도에 트래킹 후 저장해 산책 기록을 확인할 수 있습니다.
@@ -144,11 +139,11 @@
 
 |                        산책 시스템                    | 
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/1116f289f15409f3ef28a18b9942b7df/image.png" alt="산책 시스템" />  |
+|  <img src="/readme.asset/sanchaek.png" alt="산책 시스템" />  |
 
 |                        산책량 권장                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/db15c4b24c1d5ee0933b431a30b6af37/image.png" alt="산책량 권장" />  |
+|  <img src="/readme.asset/sanchaekryang.png" alt="산책량 권장" />  |
 
 
 
@@ -159,16 +154,11 @@
 
 |                        견주간 채팅                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="견주간 채팅" />  |
+|  <img src="/readme.asset/chat.png" alt="견주간 채팅" />  |
 
 |                        친구코드로 친구추가                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="친구 코드" />  |
-
-|                        지역별 커뮤니티                    |
-| :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="지역별 커뮤니티" />  |
-
+|  <img src="/readme.asset/chingucode.PNG" alt="친구 코드" />  |
 
 ### 랭크 시스템/차단 시스템 등
 - 산책량을 기반으로 랭크시스템을 구현하여 산책을 즐겁게 하고, 권장합니다.
@@ -176,34 +166,30 @@
 
 |                        랭크 시스템                    | 
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="랭크 시스템" />  |
+|  <img src="/readme.asset/rank.PNG" alt="랭크 시스템" />  |
 
 |                        차단 시스템                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="" alt="차단 시스템" />  |
+| <img src="/readme.asset/chadan.PNG" alt="차단 시스템" /> |
 
 
 
 
 <br/>
 
+
 <div id="5"></div>
-
-## 🎥 [UCC 보러가기](#) 
-
-<br />
-
-<div id="6"></div>
 
 ## 👥 협업 관리 
 
 |                            Jira BurnDown Chart                      |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/4fb33e3dee6bff09b082c73900650c7b/image.png" />  |
+| ![번다운](/readme.asset/burndown.png) |
 
 |                            Notion                      |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/71db5b91e619bd73ef1866844f3b483e/image.png" /><img src="/uploads/17b8cf11a97c3ba520f8b7719d401348/image.png" />  |
+|![노션1](/readme.asset/notion1.png)
+![노션2](/readme.asset/notion2.png)|
 
 <br />
 
@@ -211,19 +197,18 @@
 
 ## 👪 개발 멤버 소개 
 <table>
-    <tr>
-        <td height="140px" align="center"> <a href="">
-            <img src="/uploads/0b23c8d1fa4a643e06d3a8064c001718/image.png" width="140px" height="140px"/> <br><br> 👑 이동희 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="">
-            <img src="/uploads/a2b6ca65124a2b1597ebc73820dfa71b/image.png" width="140px" height="140px"/> <br><br> 🙂 이지영 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/Haru-arp">
+            <img src="/readme.asset/dong.png" width="140px" height="140px"/> <br><br> 👑 이동희 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/gorapaduckoo">
+            <img src="/readme.asset/jig.png" width="140px" height="140px"/> <br><br> 🙂 이지영 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/pch8349">
-            <img src="/uploads/7f1abc04dff4d6972c9fb5433ea6df34/image.png" width="140px" height="140px"/> <br><br> 😆 박찬혁 <br>(Back-End) </a> <br></td>
+            <img src="/readme.asset/chan.png" width="140px" height="140px"/> <br><br> 😆 박찬혁 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/rlaxorud180">
-            <img src="/uploads/b48846d500fb735839081aa6b5b675cf/image.png" width="140px" height="140px"/> <br><br> 😁 강태경 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="">
-            <img src="/uploads/59626f4e076bcb4ac35603aae55811c1/캡처.JPG" width="140px" height="140px"/> <br><br> 🙄 엄지용 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="">
-            <img src="/uploads/84c9ef5f78d646a1d45e08b5de69ae4a/image.png" width="140px" height="140px"/> <br><br> 😶 박세원 <br>(Back-End) </a> <br></td>
+            <img src="/readme.asset/tae.png" width="140px" height="140px"/> <br><br> 😁 강태경 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/umjiyong">
+            <img src="/readme.asset/jib.JPG" width="140px" height="140px"/> <br><br> 🙄 엄지용 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/parksewon">
+            <img src="/readme.asset/se.png" width="140px" height="140px"/> <br><br> 😶 박세원 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
         <td align="center">UI/UX<br/>React Native<br/></td>
@@ -244,6 +229,7 @@
 - 기획 및 설계 : 22.10.10 ~ 17
 - 프로젝트 구현 : 22.10.17 ~ 22.11.18
 - 버그 수정 및 산출물 정리 : 22.11.19 ~ 20
+- 리팩토링 (기능 안정화, 성능 최적화, 컨벤션 재확인 및 App기능) : 23.01.01 ~
 
 
 <br />
@@ -257,4 +243,4 @@
 | ERD | [ERD 바로가기](https://drive.google.com/file/d/1IfH50pegD9kg2KOKztbHn-AKtMyLx7Uv/view?usp=sharing) |
 | 빌드/배포 | [빌드/배포 바로가기](/exec/배포환경.md) |
 | 시연 시나리오 | [시연 시나리오 바로가기](/exec/시연시나리오_대본.docx) |
-| 발표자료 | [발표자료 바로가기](/exec/서울_7반_A706_발표자료.pdf)) |
+| 발표자료 | [발표자료 바로가기](/exec/서울_7반_A706_발표자료.pdf) |
