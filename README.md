@@ -158,7 +158,7 @@
 
 |                        친구코드로 친구추가                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/readme.asset/chingucode.PNG" alt="친구 코드" />  |
+|  <img src="/readme.asset/chingucode.png" alt="친구 코드" />  |
 
 ### 랭크 시스템/차단 시스템 등
 - 산책량을 기반으로 랭크시스템을 구현하여 산책을 즐겁게 하고, 권장합니다.
@@ -166,11 +166,11 @@
 
 |                        랭크 시스템                    | 
 | :---------------------------------------------------------------------------: |
-|  <img src="/readme.asset/rank.PNG" alt="랭크 시스템" />  |
+|  <img src="/readme.asset/rank.png" alt="랭크 시스템" />  |
 
 |                        차단 시스템                    |
 | :---------------------------------------------------------------------------: |
-| <img src="/readme.asset/chadan.PNG" alt="차단 시스템" /> |
+| <img src="/readme.asset/chadan.png" alt="차단 시스템" /> |
 
 
 
@@ -206,7 +206,7 @@
         <td height="140px" align="center"> <a href="https://github.com/rlaxorud180">
             <img src="/readme.asset/tae.png" width="140px" height="140px"/> <br><br> 😁 강태경 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/umjiyong">
-            <img src="/readme.asset/jib.JPG" width="140px" height="140px"/> <br><br> 🙄 엄지용 <br>(Back-End) </a> <br></td>
+            <img src="/readme.asset/jib.jpeg" width="140px" height="140px"/> <br><br> 🙄 엄지용 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/parksewon">
             <img src="/readme.asset/se.png" width="140px" height="140px"/> <br><br> 😶 박세원 <br>(Back-End) </a> <br></td>
     </tr>
